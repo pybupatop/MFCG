@@ -1,0 +1,4 @@
+﻿  Plot2DViewer.cpp
+C:\Users\Shalazary\OneDrive\Рабочий стол\Учеба\МОКГ\Plot2DViewer - Second Method\Plot2DViewer\Camera2D.h(19,17): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Shalazary\OneDrive\Рабочий стол\Учеба\МОКГ\Plot2DViewer - Second Method\Plot2DViewer\Camera2D.h(23,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Plot2DViewer.vcxproj -> C:\Users\Shalazary\OneDrive\Рабочий стол\Учеба\МОКГ\Plot2DViewer - Second Method\Debug\Plot2DViewer.exe
